@@ -1,0 +1,15 @@
+.space1 {
+    /* width: 10px; */
+    height: 2px;
+    display: inline-block;
+  }
+
+  .space2 {
+    width: 10px;
+    height: auto;
+    display: inline-block;
+  }
+
+  .btn1 {
+    margin-left: 500px;
+  }
